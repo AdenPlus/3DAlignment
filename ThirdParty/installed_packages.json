@@ -1,0 +1,2089 @@
+{
+    "fpm": {
+        "1.5.0": {
+            "bin": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "deploy": {
+                "win32-msvc2015-x64-r": "installed"
+            }
+        }
+    },
+    "geometry": {
+        "0.2.3": {
+            "bin": {
+                "win32-msvc2015-x64-r": "installed",
+                "win32-msvc2015-x64-d": "installed"
+            },
+            "dev": {
+                "win32-msvc2015-x64-r": "installed",
+                "win32-msvc2015-x64-d": "installed"
+            },
+            "dbg": {
+                "win32-msvc2015-x64-r": "installed",
+                "win32-msvc2015-x64-d": "installed"
+            },
+            "release": 2.1
+        },
+        "0.2.4": {
+            "bin": {
+                "win32-msvc2015-x64-r": "installed",
+                "win32-msvc2015-x64-d": "installed"
+            },
+            "dev": {
+                "win32-msvc2015-x64-r": "installed",
+                "win32-msvc2015-x64-d": "installed"
+            },
+            "dbg": {
+                "win32-msvc2015-x64-r": "installed",
+                "win32-msvc2015-x64-d": "installed"
+            },
+            "release": 2.2
+        }
+    },
+    "segmentation_data": {
+        "0.3.3": {
+            "bin": {
+                "win32-msvc2015-x64-r": "installed",
+                "win32-msvc2015-x64-d": "installed"
+            },
+            "dev": {
+                "win32-msvc2015-x64-r": "installed",
+                "win32-msvc2015-x64-d": "installed"
+            },
+            "dbg": {
+                "win32-msvc2015-x64-r": "installed",
+                "win32-msvc2015-x64-d": "installed"
+            },
+            "release": 2.1
+        },
+        "0.3.4": {
+            "bin": {
+                "win32-msvc2015-x64-r": "installed",
+                "win32-msvc2015-x64-d": "installed"
+            },
+            "dev": {
+                "win32-msvc2015-x64-r": "installed",
+                "win32-msvc2015-x64-d": "installed"
+            },
+            "dbg": {
+                "win32-msvc2015-x64-r": "installed",
+                "win32-msvc2015-x64-d": "installed"
+            },
+            "release": 2.2
+        }
+    },
+    "segmentation": {
+        "1.3.0": {
+            "bin": {
+                "win32-msvc2015-x64-r": "installed",
+                "win32-msvc2015-x64-d": "installed"
+            },
+            "dev": {
+                "win32-msvc2015-x64-r": "installed",
+                "win32-msvc2015-x64-d": "installed"
+            },
+            "dbg": {
+                "win32-msvc2015-x64-r": "installed",
+                "win32-msvc2015-x64-d": "installed"
+            },
+            "release": 2.1
+        },
+        "1.5.0": {
+            "bin": {
+                "win32-msvc2015-x64-r": "installed",
+                "win32-msvc2015-x64-d": "installed"
+            },
+            "dev": {
+                "win32-msvc2015-x64-r": "installed",
+                "win32-msvc2015-x64-d": "installed"
+            },
+            "dbg": {
+                "win32-msvc2015-x64-r": "installed",
+                "win32-msvc2015-x64-d": "installed"
+            },
+            "release": 2.1
+        },
+        "1.6.0": {
+            "bin": {
+                "win32-msvc2015-x64-r": "installed",
+                "win32-msvc2015-x64-d": "installed"
+            },
+            "dev": {
+                "win32-msvc2015-x64-r": "installed",
+                "win32-msvc2015-x64-d": "installed"
+            },
+            "dbg": {
+                "win32-msvc2015-x64-r": "installed",
+                "win32-msvc2015-x64-d": "installed"
+            },
+            "release": 2.2
+        },
+        "2.0.1": {
+            "bin": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dev": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dbg": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "release": 2.2
+        },
+        "2.0.2": {
+            "bin": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dev": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dbg": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "release": 2.3
+        },
+        "2.0.5": {
+            "bin": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dev": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dbg": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "release": 2.3
+        },
+        "2.1.0": {
+            "bin": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dev": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dbg": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "release": 2.4
+        },
+        "2.2.0": {
+            "bin": {
+                "win32-msvc2015-x64-r": "installed",
+                "win32-msvc2015-x64-d": "installed"
+            },
+            "dev": {
+                "win32-msvc2015-x64-r": "installed",
+                "win32-msvc2015-x64-d": "installed"
+            },
+            "dbg": {
+                "win32-msvc2015-x64-r": "installed",
+                "win32-msvc2015-x64-d": "installed"
+            },
+            "release": 2.4
+        },
+        "2.2.1": {
+            "bin": {
+                "win32-msvc2015-x64-r": "installed",
+                "win32-msvc2015-x64-d": "installed"
+            },
+            "dev": {
+                "win32-msvc2015-x64-r": "installed",
+                "win32-msvc2015-x64-d": "installed"
+            },
+            "dbg": {
+                "win32-msvc2015-x64-r": "installed",
+                "win32-msvc2015-x64-d": "installed"
+            },
+            "release": 2.4
+        },
+        "2.2.2": {
+            "bin": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dev": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dbg": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "release": 2.4
+        },
+        "2.2.3": {
+            "bin": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "release": 2.4,
+            "dev": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dbg": {
+                "win32-msvc2015-x64-r": "installed"
+            }
+        },
+        "2.5.1": {
+            "bin": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dev": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dbg": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "release": 2.6
+        },
+        "2.8.5": {
+            "bin": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dev": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dbg": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "release": 2.6
+        }
+    },
+    "sensor_data": {
+        "1.1.0": {
+            "bin": {
+                "win32-msvc2015-x64-r": "installed",
+                "win32-msvc2015-x64-d": "installed"
+            },
+            "dev": {
+                "win32-msvc2015-x64-r": "installed",
+                "win32-msvc2015-x64-d": "installed"
+            },
+            "dbg": {
+                "win32-msvc2015-x64-r": "installed",
+                "win32-msvc2015-x64-d": "installed"
+            },
+            "release": 2.1
+        },
+        "1.2.0": {
+            "bin": {
+                "win32-msvc2015-x64-r": "installed",
+                "win32-msvc2015-x64-d": "installed"
+            },
+            "dev": {
+                "win32-msvc2015-x64-r": "installed",
+                "win32-msvc2015-x64-d": "installed"
+            },
+            "dbg": {
+                "win32-msvc2015-x64-r": "installed",
+                "win32-msvc2015-x64-d": "installed"
+            },
+            "release": 2.1
+        },
+        "1.3.0": {
+            "bin": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dev": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dbg": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "release": 2.2
+        },
+        "1.3.1": {
+            "bin": {
+                "win32-msvc2015-x64-r": "installed",
+                "win32-msvc2015-x64-d": "installed"
+            },
+            "dev": {
+                "win32-msvc2015-x64-r": "installed",
+                "win32-msvc2015-x64-d": "installed"
+            },
+            "dbg": {
+                "win32-msvc2015-x64-r": "installed",
+                "win32-msvc2015-x64-d": "installed"
+            },
+            "release": 2.2
+        },
+        "1.4.0": {
+            "bin": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dev": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dbg": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "release": 2.4
+        },
+        "1.4.1": {
+            "bin": {
+                "win32-msvc2015-x64-r": "installed",
+                "win32-msvc2015-x64-d": "installed"
+            },
+            "dev": {
+                "win32-msvc2015-x64-r": "installed",
+                "win32-msvc2015-x64-d": "installed"
+            },
+            "dbg": {
+                "win32-msvc2015-x64-r": "installed",
+                "win32-msvc2015-x64-d": "installed"
+            },
+            "release": 2.4
+        },
+        "1.5.0": {
+            "bin": {
+                "win32-msvc2015-x64-r": "installed",
+                "win32-msvc2015-x64-d": "installed"
+            },
+            "dev": {
+                "win32-msvc2015-x64-r": "installed",
+                "win32-msvc2015-x64-d": "installed"
+            },
+            "dbg": {
+                "win32-msvc2015-x64-r": "installed",
+                "win32-msvc2015-x64-d": "installed"
+            },
+            "release": 2.4
+        },
+        "2.2.0": {
+            "bin": {
+                "win32-msvc2015-x64-r": "installed",
+                "win32-msvc2015-x64-d": "installed"
+            },
+            "dev": {
+                "win32-msvc2015-x64-r": "installed",
+                "win32-msvc2015-x64-d": "installed"
+            },
+            "dbg": {
+                "win32-msvc2015-x64-r": "installed",
+                "win32-msvc2015-x64-d": "installed"
+            },
+            "release": 2.6
+        },
+        "2.4.0": {
+            "bin": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dev": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dbg": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "release": 2.6
+        }
+    },
+    "calibration": {
+        "4.1.0": {
+            "bin": {
+                "win32-msvc2015-x64-r": "installed",
+                "win32-msvc2015-x64-d": "installed"
+            },
+            "dev": {
+                "win32-msvc2015-x64-r": "installed",
+                "win32-msvc2015-x64-d": "installed"
+            },
+            "dbg": {
+                "win32-msvc2015-x64-r": "installed",
+                "win32-msvc2015-x64-d": "installed"
+            },
+            "release": 2.1
+        },
+        "4.2.0": {
+            "bin": {
+                "win32-msvc2015-x64-r": "installed",
+                "win32-msvc2015-x64-d": "installed"
+            },
+            "dev": {
+                "win32-msvc2015-x64-r": "installed",
+                "win32-msvc2015-x64-d": "installed"
+            },
+            "release": 2.1
+        },
+        "5.2.1": {
+            "bin": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dev": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "release": 2.2
+        },
+        "5.2.4": {
+            "bin": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dev": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dbg": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "release": 2.3
+        },
+        "5.2.5": {
+            "bin": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dev": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dbg": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "release": 2.3
+        },
+        "6.0.1": {
+            "bin": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dev": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dbg": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "release": 2.4
+        },
+        "6.1.0": {
+            "bin": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dev": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dbg": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "release": 2.4
+        },
+        "6.1.1": {
+            "bin": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dev": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dbg": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "release": 2.4
+        },
+        "6.4.2": {
+            "bin": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dev": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dbg": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "release": 2.6
+        },
+        "6.8.2": {
+            "bin": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dev": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dbg": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "release": 2.6
+        },
+        "8.0.0": {
+            "bin": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dev": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dbg": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "release": 2.7
+        }
+    },
+    "settings": {
+        "2.0.1": {
+            "dev": {
+                "win32-msvc2015-x64-r": "installed",
+                "win32-msvc2015-x64-d": "installed"
+            },
+            "release": 2
+        }
+    },
+    "opencv": {
+        "3.1.1": {
+            "bin": {
+                "win32-msvc2015-x64-r": "installed",
+                "win32-msvc2015-x64-d": "installed"
+            },
+            "dev": {
+                "win32-msvc2015-x64-r": "installed",
+                "win32-msvc2015-x64-d": "installed"
+            }
+        },
+        "3.2.0": {
+            "bin": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dev": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "release": 2.3
+        }
+    },
+    "hardware_info": {
+        "1.0.4": {
+            "bin": {
+                "win32-msvc2015-x64-r": "installed",
+                "win32-msvc2015-x64-d": "installed"
+            },
+            "dev": {
+                "win32-msvc2015-x64-r": "installed",
+                "win32-msvc2015-x64-d": "installed"
+            },
+            "dbg": {
+                "win32-msvc2015-x64-r": "installed",
+                "win32-msvc2015-x64-d": "installed"
+            },
+            "release": 2
+        },
+        "1.0.5": {
+            "bin": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "release": 2.2
+        },
+        "1.0.6": {
+            "bin": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "release": 2.3
+        },
+        "1.0.7": {
+            "bin": {
+                "win32-msvc2015-x64-d": "installed",
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "release": 2.3,
+            "dev": {
+                "win32-msvc2015-x64-r": "installed",
+                "win32-msvc2015-x64-d": "installed"
+            },
+            "dbg": {
+                "win32-msvc2015-x64-r": "installed",
+                "win32-msvc2015-x64-d": "installed"
+            }
+        }
+    },
+    "proapi": {
+        "2.2.2": {
+            "bin": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dev": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dbg": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "release": 2.1
+        },
+        "2.3.0": {
+            "bin": {
+                "win32-msvc2015-x64-r": "installed",
+                "win32-msvc2015-x64-d": "installed"
+            },
+            "dev": {
+                "win32-msvc2015-x64-r": "installed",
+                "win32-msvc2015-x64-d": "installed"
+            },
+            "dbg": {
+                "win32-msvc2015-x64-r": "installed",
+                "win32-msvc2015-x64-d": "installed"
+            },
+            "release": 2.1
+        },
+        "2.3.1": {
+            "bin": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "release": 2.1,
+            "dev": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dbg": {
+                "win32-msvc2015-x64-r": "installed"
+            }
+        },
+        "2.4.0": {
+            "bin": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dev": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dbg": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "release": 2.2
+        },
+        "2.5.0": {
+            "bin": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dev": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dbg": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "release": 2.2
+        },
+        "2.6.0": {
+            "bin": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dev": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dbg": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "release": 2.3
+        },
+        "2.9.0": {
+            "bin": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dev": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dbg": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "release": 2.4
+        },
+        "2.10.1": {
+            "bin": {
+                "win32-msvc2015-x64-r": "installed",
+                "win32-msvc2015-x64-d": "installed"
+            },
+            "dev": {
+                "win32-msvc2015-x64-r": "installed",
+                "win32-msvc2015-x64-d": "installed"
+            },
+            "dbg": {
+                "win32-msvc2015-x64-r": "installed",
+                "win32-msvc2015-x64-d": "installed"
+            },
+            "release": 2.4
+        },
+        "2.10.3": {
+            "bin": {
+                "win32-msvc2015-x64-r": "installed",
+                "win32-msvc2015-x64-d": "installed"
+            },
+            "dev": {
+                "win32-msvc2015-x64-r": "installed",
+                "win32-msvc2015-x64-d": "installed"
+            },
+            "dbg": {
+                "win32-msvc2015-x64-r": "installed",
+                "win32-msvc2015-x64-d": "installed"
+            },
+            "release": 2.4
+        },
+        "3.0.0": {
+            "bin": {
+                "win32-msvc2015-x64-r": "installed",
+                "win32-msvc2015-x64-d": "installed"
+            },
+            "dev": {
+                "win32-msvc2015-x64-r": "installed",
+                "win32-msvc2015-x64-d": "installed"
+            },
+            "dbg": {
+                "win32-msvc2015-x64-r": "installed",
+                "win32-msvc2015-x64-d": "installed"
+            },
+            "release": 2.5
+        },
+        "4.0.1": {
+            "bin": {
+                "win32-msvc2015-x64-d": "installed",
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dev": {
+                "win32-msvc2015-x64-r": "installed",
+                "win32-msvc2015-x64-d": "installed"
+            },
+            "dbg": {
+                "win32-msvc2015-x64-r": "installed",
+                "win32-msvc2015-x64-d": "installed"
+            },
+            "release": 2.6
+        },
+        "6.0.0": {
+            "bin": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "release": 2.7,
+            "dev": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dbg": {
+                "win32-msvc2015-x64-r": "installed"
+            }
+        }
+    },
+    "spdlog": {
+        "1.0.0": {
+            "dev": {
+                "win32-msvc2015-x64-r": "installed",
+                "win32-msvc2015-x64-d": "installed"
+            }
+        },
+        "1.0.1": {
+            "dev": {
+                "win32-msvc2015-x64-r": "installed",
+                "win32-msvc2015-x64-d": "installed"
+            },
+            "release": 2.3
+        }
+    },
+    "logger": {
+        "2.0.3": {
+            "dev": {
+                "win32-msvc2015-x64-r": "installed",
+                "win32-msvc2015-x64-d": "installed"
+            },
+            "release": 2
+        },
+        "2.0.4": {
+            "dev": {
+                "win32-msvc2015-x64-r": "installed",
+                "win32-msvc2015-x64-d": "installed"
+            },
+            "release": 2.3
+        }
+    },
+    "metrics": {
+        "3.2.2": {
+            "bin": {
+                "win32-msvc2015-x64-r": "installed",
+                "win32-msvc2015-x64-d": "installed"
+            },
+            "dev": {
+                "win32-msvc2015-x64-r": "installed",
+                "win32-msvc2015-x64-d": "installed"
+            },
+            "dbg": {
+                "win32-msvc2015-x64-r": "installed",
+                "win32-msvc2015-x64-d": "installed"
+            },
+            "release": 2.1
+        },
+        "3.3.0": {
+            "bin": {
+                "win32-msvc2015-x64-r": "installed",
+                "win32-msvc2015-x64-d": "installed"
+            },
+            "release": 2.3,
+            "dev": {
+                "win32-msvc2015-x64-r": "installed",
+                "win32-msvc2015-x64-d": "installed"
+            },
+            "dbg": {
+                "win32-msvc2015-x64-r": "installed",
+                "win32-msvc2015-x64-d": "installed"
+            }
+        },
+        "3.3.1": {
+            "bin": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dev": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dbg": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "release": 2.4
+        },
+        "3.3.2": {
+            "bin": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dev": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dbg": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "release": 2.4
+        },
+        "3.3.3": {
+            "bin": {
+                "win32-msvc2015-x64-r": "installed",
+                "win32-msvc2015-x64-d": "installed"
+            },
+            "dev": {
+                "win32-msvc2015-x64-r": "installed",
+                "win32-msvc2015-x64-d": "installed"
+            },
+            "dbg": {
+                "win32-msvc2015-x64-r": "installed",
+                "win32-msvc2015-x64-d": "installed"
+            },
+            "release": 2.6
+        }
+    },
+    "video_source": {
+        "1.2.0": {
+            "bin": {
+                "win32-msvc2015-x64-r": "installed",
+                "win32-msvc2015-x64-d": "installed"
+            },
+            "dev": {
+                "win32-msvc2015-x64-r": "installed",
+                "win32-msvc2015-x64-d": "installed"
+            },
+            "dbg": {
+                "win32-msvc2015-x64-r": "installed",
+                "win32-msvc2015-x64-d": "installed"
+            },
+            "release": 2.1
+        },
+        "1.3.0": {
+            "bin": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dev": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dbg": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "release": 2.2
+        },
+        "1.3.1": {
+            "bin": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dev": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dbg": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "release": 2.2
+        },
+        "3.0.0": {
+            "bin": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dev": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dbg": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "release": 2.2
+        },
+        "3.3.0": {
+            "bin": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dev": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dbg": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "release": 2.2
+        },
+        "3.3.1": {
+            "bin": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dev": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dbg": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "release": 2.2
+        },
+        "4.0.0": {
+            "bin": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dev": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "doc": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dbg": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "release": 2.3
+        },
+        "4.0.0-rc1": {
+            "bin": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dev": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dbg": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "release": 2.3
+        },
+        "4.0.0-rc2": {
+            "bin": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dev": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dbg": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "release": 2.3
+        },
+        "4.0.0-rc3": {
+            "bin": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dev": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dbg": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "release": 2.3
+        },
+        "4.0.2": {
+            "bin": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dev": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dbg": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "release": 2.3
+        },
+        "4.2.0": {
+            "bin": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dev": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dbg": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "release": 2.3
+        },
+        "4.2.1": {
+            "bin": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "release": 2.3,
+            "dev": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dbg": {
+                "win32-msvc2015-x64-r": "installed"
+            }
+        },
+        "4.2.2": {
+            "bin": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dev": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dbg": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "release": 2.3
+        },
+        "4.3.0": {
+            "bin": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dev": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dbg": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "release": 2.4
+        },
+        "4.3.1": {
+            "bin": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dev": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dbg": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "release": 2.4
+        },
+        "4.3.2": {
+            "bin": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dev": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dbg": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "release": 2.4
+        },
+        "4.6.1": {
+            "bin": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dev": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dbg": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "release": 2.6
+        },
+        "4.9.2": {
+            "bin": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dev": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dbg": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "release": 2.7
+        }
+    },
+    "orbbec_camera": {
+        "1.2.0": {
+            "bin": {
+                "win32-msvc2015-x64-r": "installed",
+                "win32-msvc2015-x64-d": "installed"
+            },
+            "dev": {
+                "win32-msvc2015-x64-r": "installed",
+                "win32-msvc2015-x64-d": "installed"
+            },
+            "dbg": {
+                "win32-msvc2015-x64-r": "installed",
+                "win32-msvc2015-x64-d": "installed"
+            },
+            "release": 2.1
+        },
+        "1.3.0": {
+            "bin": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dev": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dbg": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "release": 2.2
+        },
+        "1.3.1": {
+            "bin": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dev": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dbg": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "release": 2.2
+        }
+    },
+    "image_enhancement": {
+        "1.2.0": {
+            "bin": {
+                "win32-msvc2015-x64-r": "installed",
+                "win32-msvc2015-x64-d": "installed"
+            },
+            "dev": {
+                "win32-msvc2015-x64-r": "installed",
+                "win32-msvc2015-x64-d": "installed"
+            },
+            "dbg": {
+                "win32-msvc2015-x64-r": "installed",
+                "win32-msvc2015-x64-d": "installed"
+            },
+            "release": 2.1
+        },
+        "1.4.0": {
+            "bin": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dev": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dbg": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "release": 2.2
+        },
+        "1.4.1": {
+            "bin": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dev": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dbg": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "release": 2.2
+        },
+        "1.5.0": {
+            "bin": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dev": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dbg": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "release": 2.3
+        },
+        "1.5.2": {
+            "bin": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dev": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dbg": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "release": 2.3
+        },
+        "1.5.3": {
+            "bin": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "release": 2.3,
+            "dev": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dbg": {
+                "win32-msvc2015-x64-r": "installed"
+            }
+        },
+        "1.6.0": {
+            "bin": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dev": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dbg": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "release": 2.4
+        },
+        "1.6.1": {
+            "bin": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dev": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dbg": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "release": 2.4
+        },
+        "1.6.2": {
+            "bin": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dev": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dbg": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "release": 2.4
+        },
+        "1.9.0": {
+            "bin": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dev": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dbg": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "release": 2.6
+        },
+        "1.12.0": {
+            "bin": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dev": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dbg": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "release": 2.6
+        }
+    },
+    "user_event_handler": {
+        "3.4.0": {
+            "bin": {
+                "win32-msvc2015-x64-r": "installed",
+                "win32-msvc2015-x64-d": "installed"
+            },
+            "dev": {
+                "win32-msvc2015-x64-r": "installed",
+                "win32-msvc2015-x64-d": "installed"
+            },
+            "release": 2.1
+        },
+        "3.5.0": {
+            "bin": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dev": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "release": 2.2
+        },
+        "3.5.1": {
+            "bin": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dev": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dbg": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "release": 2.2
+        },
+        "3.7.0": {
+            "bin": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dev": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dbg": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "release": 2.2
+        },
+        "3.8.0": {
+            "bin": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dev": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dbg": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "release": 2.3
+        },
+        "3.9.0": {
+            "bin": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dev": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dbg": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "release": 2.4
+        },
+        "3.10.0": {
+            "bin": {
+                "win32-msvc2015-x64-r": "installed",
+                "win32-msvc2015-x64-d": "installed"
+            },
+            "dev": {
+                "win32-msvc2015-x64-r": "installed",
+                "win32-msvc2015-x64-d": "installed"
+            },
+            "dbg": {
+                "win32-msvc2015-x64-r": "installed",
+                "win32-msvc2015-x64-d": "installed"
+            },
+            "release": 2.4
+        },
+        "3.11.0": {
+            "bin": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dev": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dbg": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "release": 2.5
+        },
+        "3.12.0": {
+            "bin": {
+                "win32-msvc2015-x64-r": "installed",
+                "win32-msvc2015-x64-d": "installed"
+            },
+            "dev": {
+                "win32-msvc2015-x64-r": "installed",
+                "win32-msvc2015-x64-d": "installed"
+            },
+            "dbg": {
+                "win32-msvc2015-x64-r": "installed",
+                "win32-msvc2015-x64-d": "installed"
+            },
+            "release": 2.6
+        },
+        "3.13.0": {
+            "bin": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dev": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dbg": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "release": 2.7
+        }
+    },
+    "zlib": {
+        "1.2.13": {
+            "bin": {
+                "win32-msvc2015-x64-r": "installed",
+                "win32-msvc2015-x64-d": "installed"
+            },
+            "dev": {
+                "win32-msvc2015-x64-r": "installed",
+                "win32-msvc2015-x64-d": "installed"
+            },
+            "dbg": {
+                "win32-msvc2015-x64-r": "installed",
+                "win32-msvc2015-x64-d": "installed"
+            },
+            "release": 2
+        }
+    },
+    "quazip": {
+        "0.7.16": {
+            "bin": {
+                "win32-msvc2015-x64-r": "installed",
+                "win32-msvc2015-x64-d": "installed"
+            },
+            "dev": {
+                "win32-msvc2015-x64-r": "installed",
+                "win32-msvc2015-x64-d": "installed"
+            },
+            "dbg": {
+                "win32-msvc2015-x64-r": "installed",
+                "win32-msvc2015-x64-d": "installed"
+            },
+            "release": 2.1
+        }
+    },
+    "intel_ipp": {
+        "8.0.0": {
+            "bin": {
+                "win32-msvc2015-x64-r": "installed",
+                "win32-msvc2015-x64-d": "installed"
+            },
+            "release": 1
+        }
+    },
+    "openni": {
+        "2.2.0": {
+            "bin": {
+                "win32-msvc2015-x64-r": "installed",
+                "win32-msvc2015-x64-d": "installed"
+            },
+            "release": 2.1,
+            "dev": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dbg": {
+                "win32-msvc2015-x64-r": "installed"
+            }
+        }
+    },
+    "xnlib": {
+        "2.2.0": {
+            "bin": {
+                "win32-msvc2015-x64-r": "installed",
+                "win32-msvc2015-x64-d": "installed"
+            },
+            "release": 2.1
+        }
+    },
+    "pcl": {
+        "1.0.1": {
+            "bin": {
+                "win32-msvc2015-x64-r": "installed",
+                "win32-msvc2015-x64-d": "installed"
+            },
+            "release": 2.1
+        },
+        "1.1.0": {
+            "bin": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "release": 2.2
+        },
+        "1.1.1": {
+            "bin": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "release": 2.3
+        },
+        "1.1.2": {
+            "bin": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "release": 2.4
+        },
+        "1.1.3": {
+            "bin": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "release": 2.4,
+            "dev": {
+                "win32-msvc2015-x64-r": "installed"
+            }
+        }
+    },
+    "qt_core": {
+        "5.6.1": {
+            "bin": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dev": {
+                "win32-msvc2015-x64-r": "installed"
+            }
+        }
+    },
+    "qt_network": {
+        "5.6.1": {
+            "bin": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dev": {
+                "win32-msvc2015-x64-r": "installed"
+            }
+        }
+    },
+    "qt_web_sockets": {
+        "5.6.1": {
+            "bin": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dev": {
+                "win32-msvc2015-x64-r": "installed"
+            }
+        }
+    },
+    "calibration_data": {
+        "1.1.0": {
+            "bin": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dev": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dbg": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "release": 2.2
+        },
+        "1.1.1": {
+            "bin": {
+                "win32-msvc2015-x64-r": "installed",
+                "win32-msvc2015-x64-d": "installed"
+            },
+            "dev": {
+                "win32-msvc2015-x64-r": "installed",
+                "win32-msvc2015-x64-d": "installed"
+            },
+            "dbg": {
+                "win32-msvc2015-x64-r": "installed",
+                "win32-msvc2015-x64-d": "installed"
+            },
+            "release": 2.2
+        },
+        "2.0.1": {
+            "bin": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dev": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dbg": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "release": 2.4
+        },
+        "2.1.0": {
+            "bin": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dev": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dbg": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "release": 2.4
+        },
+        "2.2.0": {
+            "bin": {
+                "win32-msvc2015-x64-r": "installed",
+                "win32-msvc2015-x64-d": "installed"
+            },
+            "dev": {
+                "win32-msvc2015-x64-r": "installed",
+                "win32-msvc2015-x64-d": "installed"
+            },
+            "dbg": {
+                "win32-msvc2015-x64-r": "installed",
+                "win32-msvc2015-x64-d": "installed"
+            },
+            "release": 2.4
+        },
+        "3.2.0": {
+            "bin": {
+                "win32-msvc2015-x64-r": "installed",
+                "win32-msvc2015-x64-d": "installed"
+            },
+            "dev": {
+                "win32-msvc2015-x64-r": "installed",
+                "win32-msvc2015-x64-d": "installed"
+            },
+            "dbg": {
+                "win32-msvc2015-x64-r": "installed",
+                "win32-msvc2015-x64-d": "installed"
+            },
+            "release": 2.6
+        },
+        "3.2.1": {
+            "bin": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dev": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dbg": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "release": 2.6
+        },
+        "3.4.1": {
+            "bin": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dev": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dbg": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "release": 2.6
+        },
+        "3.4.0": {
+            "bin": {
+                "win32-msvc2015-x64-d": "installed",
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dev": {
+                "win32-msvc2015-x64-r": "installed",
+                "win32-msvc2015-x64-d": "installed"
+            },
+            "dbg": {
+                "win32-msvc2015-x64-r": "installed",
+                "win32-msvc2015-x64-d": "installed"
+            },
+            "release": 2.6
+        },
+        "4.0.0": {
+            "bin": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dev": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dbg": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "release": 2.7
+        }
+    },
+    "intel_ipp_core": {
+        "8.0.0": {
+            "bin": {
+                "win32-msvc2015-x64-r": "installed",
+                "win32-msvc2015-x64-d": "installed"
+            },
+            "release": 2.2,
+            "dev": {
+                "win32-msvc2015-x64-r": "installed",
+                "win32-msvc2015-x64-d": "installed"
+            }
+        }
+    },
+    "intel_ipp_s": {
+        "8.0.0": {
+            "bin": {
+                "win32-msvc2015-x64-r": "installed",
+                "win32-msvc2015-x64-d": "installed"
+            },
+            "release": 2.2,
+            "dev": {
+                "win32-msvc2015-x64-r": "installed",
+                "win32-msvc2015-x64-d": "installed"
+            }
+        }
+    },
+    "intel_ipp_i": {
+        "8.0.0": {
+            "bin": {
+                "win32-msvc2015-x64-r": "installed",
+                "win32-msvc2015-x64-d": "installed"
+            },
+            "release": 2.2,
+            "dev": {
+                "win32-msvc2015-x64-r": "installed",
+                "win32-msvc2015-x64-d": "installed"
+            }
+        }
+    },
+    "intel_ipp_j": {
+        "8.0.0": {
+            "bin": {
+                "win32-msvc2015-x64-r": "installed",
+                "win32-msvc2015-x64-d": "installed"
+            },
+            "release": 2.2,
+            "dev": {
+                "win32-msvc2015-x64-r": "installed",
+                "win32-msvc2015-x64-d": "installed"
+            }
+        }
+    },
+    "intel_ipp_cc": {
+        "8.0.0": {
+            "bin": {
+                "win32-msvc2015-x64-r": "installed",
+                "win32-msvc2015-x64-d": "installed"
+            },
+            "release": 2.2,
+            "dev": {
+                "win32-msvc2015-x64-r": "installed",
+                "win32-msvc2015-x64-d": "installed"
+            }
+        }
+    },
+    "libssl": {
+        "1.0.2": {
+            "bin": {
+                "win32-msvc2015-x64-d": "installed",
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dev": {
+                "win32-msvc2015-x64-d": "installed",
+                "win32-msvc2015-x64-r": "installed"
+            }
+        }
+    },
+    "app_container_ext_monitor_helper": {
+        "0.1.2": {
+            "bin": {
+                "win32-msvc2015-x64-d": "installed",
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dev": {
+                "win32-msvc2015-x64-d": "installed",
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "release": 2
+        }
+    },
+    "doxygen": {
+        "1.8.11": {
+            "dev": {
+                "win32-msvc2015-x64-r": "installed"
+            }
+        }
+    },
+    "graphviz": {
+        "2.38.0": {
+            "dev": {
+                "win32-msvc2015-x64-r": "installed"
+            }
+        }
+    },
+    "nizza_static_ipp": {
+        "1.1.0": {
+            "dev": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dbg": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "release": 2.2
+        },
+        "1.2.0": {
+            "dev": {
+                "win32-msvc2015-x64-r": "installed",
+                "win32-msvc2015-x64-d": "installed"
+            },
+            "dbg": {
+                "win32-msvc2015-x64-r": "installed",
+                "win32-msvc2015-x64-d": "installed"
+            },
+            "release": 2.3
+        }
+    },
+    "image_filters": {
+        "2.0.0": {
+            "bin": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dev": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "doc": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dbg": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "release": 2.3
+        },
+        "2.1.0": {
+            "bin": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dev": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dbg": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "release": 2.3
+        },
+        "2.1.1": {
+            "bin": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dev": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dbg": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "release": 2.3
+        },
+        "2.2.1": {
+            "bin": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "release": 2.3,
+            "dev": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dbg": {
+                "win32-msvc2015-x64-r": "installed"
+            }
+        },
+        "2.2.2": {
+            "bin": {
+                "win32-msvc2015-x64-r": "installed",
+                "win32-msvc2015-x64-d": "installed"
+            },
+            "dev": {
+                "win32-msvc2015-x64-r": "installed",
+                "win32-msvc2015-x64-d": "installed"
+            },
+            "dbg": {
+                "win32-msvc2015-x64-r": "installed",
+                "win32-msvc2015-x64-d": "installed"
+            },
+            "release": 2.3
+        },
+        "3.0.0": {
+            "bin": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "release": 2.6
+        }
+    },
+    "libav": {
+        "12.1.0": {
+            "bin": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dev": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "release": 2.4
+        }
+    },
+    "ocr": {
+        "1.0.1": {
+            "bin": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dev": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dbg": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "release": 2.4
+        },
+        "1.0.2": {
+            "bin": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dev": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dbg": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "release": 2.4
+        },
+        "1.1.0": {
+            "bin": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dev": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dbg": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "release": 2.4
+        },
+        "2.0.3": {
+            "bin": {
+                "win32-msvc2015-x64-r": "installed",
+                "win32-msvc2015-x64-d": "installed"
+            },
+            "dev": {
+                "win32-msvc2015-x64-r": "installed",
+                "win32-msvc2015-x64-d": "installed"
+            },
+            "dbg": {
+                "win32-msvc2015-x64-r": "installed",
+                "win32-msvc2015-x64-d": "installed"
+            },
+            "release": 2.6
+        }
+    },
+    "idrs": {
+        "15.2.12": {
+            "bin": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "release": 2.3
+        },
+        "15.3.0": {
+            "bin": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "release": 2.4
+        },
+        "15.3.0+2": {
+            "bin": {
+                "win32-msvc2015-x64-r": "installed",
+                "win32-msvc2015-x64-d": "installed"
+            },
+            "release": 2.6
+        }
+    },
+    "worktools_shared": {
+        "1.0.1": {
+            "bin": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dev": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dbg": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "release": 2.6
+        },
+        "1.3.3": {
+            "bin": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dev": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dbg": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "release": 2.6
+        }
+    },
+    "worktools_cropper": {
+        "1.0.0": {
+            "bin": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dev": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dbg": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "release": 2.6
+        },
+        "1.3.0": {
+            "bin": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dev": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dbg": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "release": 2.6
+        }
+    },
+    "worktools_segmentation": {
+        "1.0.0": {
+            "bin": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dev": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dbg": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "release": 2.6
+        },
+        "1.2.0": {
+            "bin": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dev": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dbg": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "release": 2.6
+        }
+    },
+    "worktools_edit_functionality": {
+        "1.0.1": {
+            "bin": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dev": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dbg": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "release": 2.6
+        },
+        "1.3.4": {
+            "bin": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dev": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dbg": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "release": 2.6
+        }
+    },
+    "worktools_video_streaming": {
+        "0.0.10": {
+            "bin": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dev": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dbg": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "release": 2.6
+        },
+        "2.0.0": {
+            "bin": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dev": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dbg": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "release": 2.7
+        }
+    },
+    "worktools_keystone_correction": {
+        "2.0.0": {
+            "bin": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dev": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "dbg": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "release": 2.7
+        }
+    },
+    "pcl_int": {
+        "1.1.3": {
+            "dev": {
+                "win32-msvc2015-x64-r": "installed"
+            },
+            "release": 2.4
+        }
+    }
+}
