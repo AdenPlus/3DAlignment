@@ -13,22 +13,7 @@ int main(int argc, char *argv[])
     QApplication::setAttribute(Qt::AA_DisableHighDpiScaling);
 
     QApplication app(argc, argv);
-    //app.setAttribute(Qt::AA_DontCreateNativeWidgetSiblings);
-
-    //CrashHandler::HookUnhandledExceptions(PACKAGE_NAME);
-
-//    try
-//    {
-//        //hp::fortis::Logger::install("HP/WorkTools/Show/log", "Show");
-//    }
-//    catch (const spdlog::spdlog_ex& ex)
-//    {
-//        qWarning() << "Cannot install custom logging handler, reason" << ex.what();
-//    }
-
-    //app.setApplicationVersion(PACKAGE_VERSION);
-    app.setOrganizationName("HP");
-    app.setApplicationName("WorkTools/3DRegistration");
+    app.setApplicationName("3DRegistration");
 
     Utility::initialization();
 
