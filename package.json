@@ -1,0 +1,18 @@
+{
+    "name": "registration",
+    "description": "Registration",
+    "version": "1.0.0",
+    "type": "app",
+    "product": "WorkTools",
+    "author": "HP Inc.",
+    "copyright": "\\251 Copyright 2017 Hewlett-Packard Development Company, L.P.",
+    "publish": {
+        "bin": {
+            "<spec>": "**/<spec>/*"
+        }
+    },
+    "devDependencies": {
+        "logger": "~2.0.3",
+        "settings": "~2.0.1"
+    }
+}
